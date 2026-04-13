@@ -1,4 +1,4 @@
-# Raspberry Pi AI Kiti Projeleri
+# Raspberry Pi AI Kiti Projeleri  1
 
 Bu depo, **Raspberry Pi AI Kiti** proje kitabındaki örnek kodları içermektedir. Projeler, Raspberry Pi kullanarak nesne tanıma, görüntü segmentasyonu, poz tespiti ve diğer yapay zeka tabanlı uygulamaları kapsamaktadır.
 
